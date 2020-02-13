@@ -2,7 +2,6 @@ import React from 'react';
 import {Location} from 'history';
 import styled from '@emotion/styled';
 
-import styled from '@emotion/styled';
 import {Client} from 'app/api';
 import {Organization, Tag} from 'app/types';
 import withApi from 'app/utils/withApi';

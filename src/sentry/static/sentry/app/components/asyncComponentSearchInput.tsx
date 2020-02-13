@@ -2,11 +2,8 @@ import * as ReactRouter from 'react-router';
 import debounce from 'lodash/debounce';
 import React from 'react';
 
-<<<<<<< HEAD
 import styled from '@emotion/styled';
-=======
 import {t} from 'app/locale';
->>>>>>> master
 import Input from 'app/views/settings/components/forms/controls/input';
 import LoadingIndicator from 'app/components/loadingIndicator';
 import {Client} from 'app/api';

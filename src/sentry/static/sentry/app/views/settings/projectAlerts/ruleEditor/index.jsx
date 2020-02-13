@@ -4,7 +4,6 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import styled from '@emotion/styled';
 
-import styled from '@emotion/styled';
 import {ALL_ENVIRONMENTS_KEY} from 'app/constants';
 import {Panel, PanelBody, PanelHeader} from 'app/components/panels';
 import {SelectField, TextField} from 'app/components/forms';

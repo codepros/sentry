@@ -20,6 +20,7 @@ import {trackAnalyticsEvent} from 'app/utils/analytics';
 
 import {fetchTagFacets, Tag} from './utils';
 import EventView, {isAPIPayloadSimilar} from './eventView';
+import {SectionHeading} from './styles';
 
 type Props = {
   api: Client;

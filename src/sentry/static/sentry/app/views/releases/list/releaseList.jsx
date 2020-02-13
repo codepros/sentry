@@ -4,7 +4,6 @@ import styled from '@emotion/styled';
 import uniq from 'lodash/uniq';
 import flatten from 'lodash/flatten';
 
-import styled from '@emotion/styled';
 import {PanelItem} from 'app/components/panels';
 import Count from 'app/components/count';
 import ReleaseStats from 'app/components/releaseStats';

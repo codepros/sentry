@@ -2,6 +2,7 @@ import isEqual from 'lodash/isEqual';
 import PropTypes from 'prop-types';
 import React from 'react';
 
+import styled from '@emotion/styled';
 import {t} from 'app/locale';
 import {getInterval} from 'app/components/charts/utils';
 import ChartZoom from 'app/components/charts/chartZoom';
